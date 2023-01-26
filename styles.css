@@ -1,0 +1,55 @@
+ body {
+     background-color: grey;
+     margin: auto;
+     padding: auto;
+
+ }
+
+
+ h1 {
+     text-align: center;
+     color: aqua;
+     padding-top: 8%;
+     font-weight: 100;
+     font-size: 90px;
+     font-style: oblique;
+ }
+
+ .alignx {
+     display: flex;
+     margin: auto;
+
+     justify-content: center;
+
+
+ }
+
+ .player1 {
+     padding-right: 10%;
+ }
+
+
+ .dice {
+     display: flex;
+     margin: auto;
+     width: fit-content;
+
+
+ }
+
+ .dice_area1 {
+     margin: auto;
+     margin-right: 5%;
+ }
+
+ img {
+     width: 200px;
+     justify-content: space-between;
+ }
+
+
+ .refresh-button {
+     text-align: center;
+     padding-top: 3%;
+     margin: auto;
+ }
